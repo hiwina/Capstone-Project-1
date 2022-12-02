@@ -1,40 +1,126 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portfolio-Mobile-first-project
+<a name="readme-top"></a>
 
-> Web design for mobile version
-> A page that contain navigation bar and headline of portfolio page.
+<div align="center">
 
-## Built With
+  <img src="images/murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-- HTML, CSS
+  <h3><b>Capstone-project-one</b></h3>
 
-## General Info
+</div>
 
-This project is building a web for mobile. Here, the navigation bar and the headline is created.
-## Authors
+<!-- TABLE OF CONTENTS -->
 
-👤 Hiwot Fekadu Bayissa
+# 📗 Table of Contents
 
-- GitHub: [@hiwina](https://github.com/hiwina)
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Clone](#clone)
+  - [Run](#run)
+- [👥 Authors](#authors)
+- [🙏 Acknowledgements](#acknowledgements)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [📝 License](#license)
 
-## 🤝 Contributing
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 Capstone-project-one <a name="about-project"></a>
+
+> This is a Capstone Project for Microverse block one course.
+
+## 🛠 Built With <a name="built-with">HTML, CSS, & Javascript</a>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- Responsive 
+- Dynamic
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Here is a link to deployed project.
+
+- [Live Demo Link](https://github.com/hiwina/Capstone-Project-1/)
+
+> Here is a link to loom video.
+
+- [Loom Video Link](https://www.loom.com/share/6ae631ddfe6241d7a718ad9c7a23da5e)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> To get a local copy up and running, follow these steps.
+
+### Clone
+
+Clone this repository to your desired folder:
+
+  git clone https://github.com/hiwina/Capstone-Project-1
+
+
+### Run 
+
+To run project, run the following command:
+
+  Open in desired editor.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> 
+
+👤 Hiwot Bayissa
+
+ GitHub: [@githubhandle](https://github.com/hiwina)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank cindy shin the author of template design.
+
+Behance: [Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+<!-- SUPPORT -->
 
-## Acknowledgments
+## ⭐️ Show your support <a name="support"></a>
 
-## 📝 License
+If you like this project please give a star...
 
-Copyright 2022, [Hiwot Bayissa]
-Please delete this line and the next one
-APP TYPE can be a webpage/website, a web app, a software and so on
-Permission is hereby granted, free of charge, to any person obtaining a copy of this [APP TYPE] and associated documentation files, to deal in the [APP TYPE] without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the [APP TYPE], and to permit persons to whom the [APP TYPE] is furnished to do so, subject to the following conditions:
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the [APP TYPE].
+<!-- LICENSE -->
 
-THE [APP TYPE] IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE [APP TYPE] OR THE USE OR OTHER DEALINGS IN THE [APP TYPE].
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./mit.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
