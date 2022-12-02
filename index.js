@@ -138,27 +138,3 @@ seeMorebtn.addEventListener('click', () => {
     }
   });
 });
-
-//     const info = document.createElement('div');
-//     info.classList.add('info-activities');
-//     speakerContainer.appendChild(info);
-
-//     const tittle = document.createElement('h3');
-//     tittle.classList.add('program-tittle', 'name-event');
-//     tittle.innerText = item.tittle;
-//     info.appendChild(tittle);
-
-//     const place = document.createElement('h4');
-//     place.classList.add('place-event');
-//     place.innerText = item.place;
-//     info.appendChild(place);
-
-//     const grayBar = document.createElement('div');
-//     grayBar.classList.add('bar-icon-gray');
-//     info.appendChild(grayBar);
-
-//     const city = document.createElement('p');
-//     city.classList.add('city-event');
-//     city.innerText = item.city;
-//     info.appendChild(city);
-//   });
