@@ -18,7 +18,7 @@ navLink.forEach((n) => n.addEventListener('click', closeMenu));
 const speakers = [
   {
     id: 1,
-    image: '/Image/speaker_01.png',
+    image: '/Images/speaker_01.png',
     name: 'Teka G/yesus',
     organization: 'Trade and Industry Minister',
     background:
@@ -26,7 +26,7 @@ const speakers = [
   },
   {
     id: 2,
-    image: '/Image/speaker_02.png',
+    image: '/Images/speaker_02.png',
     name: 'Tekeste Girma',
     organization: 'CEO Ethiopian Comodity Exchange',
     background:
@@ -34,7 +34,7 @@ const speakers = [
   },
   {
     id: 3,
-    image: '/Image/speaker_03.png',
+    image: '/Images/speaker_03.png',
     name: 'Jeff Bezos',
     organization: 'Manager, Redstone Comodity',
     background:
@@ -42,7 +42,7 @@ const speakers = [
   },
   {
     id: 4,
-    image: '/Image/speaker_04.png',
+    image: '/Images/speaker_04.png',
     name: 'Marta Alemu',
     organization: 'CEO, Jorka Events',
     background:
@@ -50,7 +50,7 @@ const speakers = [
   },
   {
     id: 5,
-    image: '/Image/speaker_05.png',
+    image: '/Images/speaker_05.png',
     name: 'Tirsit Tsegaye',
     organization: 'CEO, Redstone Comodity',
     background:
@@ -58,7 +58,7 @@ const speakers = [
   },
   {
     id: 6,
-    image: '/Image/speaker_06.png',
+    image: '/Images/speaker_06.png',
     name: 'Abel Lema',
     organization: 'CEO, Agriculture Ministry',
     background:
@@ -115,7 +115,7 @@ const createActivities = () => {
 
   const arrowImg = document.createElement('img');
   arrowImg.classList.add('arrow-img');
-  arrowImg.setAttribute('src', 'image/arrow_down.png');
+  arrowImg.setAttribute('src', 'images/arrow_down.png');
   arrowImg.setAttribute('alt', 'arrow icon');
   arrowImg.setAttribute('width', '15');
   arrowImg.setAttribute('height', '10');
