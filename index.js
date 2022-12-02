@@ -12,12 +12,8 @@ function closeMenu() {
   navMenu.classList.remove('active');
 }
 
-
 humberger.addEventListener('click', openMenu);
 navLink.forEach((n) => n.addEventListener('click', closeMenu));
-
-
-
 
 const speakers = [
   {
@@ -54,7 +50,7 @@ const speakers = [
   },
   {
     id: 5,
-    image:'/Image/speaker_05.png',
+    image: '/Image/speaker_05.png',
     name: 'Tirsit Tsegaye',
     organization: 'CEO, Redstone Comodity',
     background:
@@ -70,11 +66,9 @@ const speakers = [
   },
 ];
 
-const activity = document.querySelector('.activity-container')
+const activity = document.querySelector('.activity-container');
 
 const createActivities = () => {
-
-
   speakers.forEach((item, index) => {
     const speakerContainer = document.createElement('div');
     speakerContainer.classList.add('speaker-container');
@@ -112,13 +106,12 @@ const createActivities = () => {
     speakerBackground.className = 'speaker-background';
     speakerBackground.textContent = `${item.background}`;
     speakerInfos.appendChild(speakerBackground);
-    
   });
 
-    const seeMore = document.createElement('button');
-    seeMore.classList.add('see-more-wrap');
-    seeMore.innerText = 'MORE ';
-    activity.appendChild(seeMore);
+  const seeMore = document.createElement('button');
+  seeMore.classList.add('see-more-wrap');
+  seeMore.innerText = 'MORE ';
+  activity.appendChild(seeMore);
 
   const arrowImg = document.createElement('img');
   arrowImg.classList.add('arrow-img');
@@ -146,14 +139,6 @@ seeMorebtn.addEventListener('click', () => {
   });
 });
 
-
-
-
-
-
-
-
-
 //     const info = document.createElement('div');
 //     info.classList.add('info-activities');
 //     speakerContainer.appendChild(info);
@@ -177,4 +162,3 @@ seeMorebtn.addEventListener('click', () => {
 //     city.innerText = item.city;
 //     info.appendChild(city);
 //   });
-  

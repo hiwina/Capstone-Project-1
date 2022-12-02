@@ -12,6 +12,5 @@ function closeMenu() {
   navMenu.classList.remove('active');
 }
 
-
 humberger.addEventListener('click', openMenu);
 navLink.forEach((n) => n.addEventListener('click', closeMenu));
