@@ -71,7 +71,7 @@
 
 .headline {
   font-family: 'lato', sans-serif;
-  background-image: url(images/mobile_bg.png);
+  background-image: url(./Images/mobile_bg.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -97,7 +97,7 @@
   font-weight: bolder;
   max-width: 800px;
   max-height: 300px;
-  background: url('images/bg-orange.jpg');
+  background: url('./Images/bg-orange.jpg');
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
