@@ -50,11 +50,11 @@
 
 > Here is a link to deployed project.
 
-- [Live Demo Link](https://github.com/hiwina/Capstone-Project-1/)
+- [Live Demo Link](ttps://hiwina.github.io/Capstone-Project-1/)
 
 > Here is a link to loom video.
 
-- [Loom Video Link](https://www.loom.com/share/6ae631ddfe6241d7a718ad9c7a23da5e)
+- [Loom Video Link](https://www.loom.com/share/515469819a354271bcda6b7a632c6735)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
