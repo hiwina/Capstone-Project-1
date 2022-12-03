@@ -107,6 +107,9 @@
   text-align: center;
   max-height: 300px;
   background: url('./Images/bg-orange.jpg');
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
 
 .day-desc {
