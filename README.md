@@ -50,7 +50,7 @@
 
 > Here is a link to deployed project.
 
-- [Live Demo Link](ttps://hiwina.github.io/Capstone-Project-1/)
+- [Live Demo Link](https://hiwina.github.io/Capstone-Project-1/)
 
 > Here is a link to loom video.
 
