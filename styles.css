@@ -71,7 +71,7 @@
 
 .headline {
   font-family: 'lato', sans-serif;
-  background-image: url('../images/mobile_bg.png');
+  background-image: url('./Images/mobile_bg.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
