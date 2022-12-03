@@ -99,6 +99,7 @@
   max-height: 300px;
   background: url('./images/bg-orange.jpg');
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
