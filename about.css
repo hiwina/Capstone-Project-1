@@ -106,7 +106,7 @@
   font-weight: bolder;
   text-align: center;
   max-height: 300px;
-  background: url('./Images/bg-orange.jpg');
+  background: url('./images/bg-orange.jpg');
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
